@@ -39,7 +39,7 @@ Estes projetos demonstram minha capacidade de entregar produtos completos ("Do Z
 *Um sistema HealthTech focado em Terapia ABA/Denver com alta conformidade de dados.*
 * **O Desafio:** Gerenciar dados sensíveis de pacientes e automatizar relatórios de evolução clínica.
 * **A Solução:** Arquitetura Multi-tenant segura, Filas (Queues) para processamento de PDFs pesados e Criptografia em repouso.
-* **Tech:** Laravel, Redis, PostgreSQL, Chart.js.
+* **Tech:** Laravel, mySQL, React + Tailwind & ShadCN .
 
 #### 📊 [MineOps Manager](https://github.com/SEU-USUARIO/mineops)
 *Painel de controle de infraestrutura para servidores de jogos baseados em Linux.*
