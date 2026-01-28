@@ -63,10 +63,10 @@ Estes projetos demonstram minha capacidade de entregar produtos completos ("Do Z
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-fonseca-17a785223/" target="_blank">
     <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@GMAIL.COM">
+  <a href="mailto:isaacgfds@hotmail.com">
     <img src="https://img.shields.io/badge/-Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
