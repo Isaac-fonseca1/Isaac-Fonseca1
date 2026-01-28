@@ -56,8 +56,8 @@ Estes projetos demonstram minha capacidade de entregar produtos completos ("Do Z
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isaac-Fonseca1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Fonseca1&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
 ---
