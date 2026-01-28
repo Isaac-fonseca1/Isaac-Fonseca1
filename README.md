@@ -35,7 +35,7 @@ Recrutadores e Tech Leads valorizam quem resolve problemas. Aqui está o meu ars
 
 Estes projetos demonstram minha capacidade de entregar produtos completos ("Do Zero ao Deploy").
 
-#### 🏥 [Clinical SaaS (Stealth Mode)](/projects/clinical-saas)
+#### 🏥 [Clinical SaaS (Stealth Mode)](https://portfolio-coral-zeta-13.vercel.app/clinical-saas)
 *Um sistema HealthTech focado em Terapia ABA/Denver com alta conformidade de dados.*
 * **O Desafio:** Gerenciar dados sensíveis de pacientes e automatizar relatórios de evolução clínica.
 * **A Solução:** Arquitetura Multi-tenant segura, Filas (Queues) para processamento de PDFs pesados e Criptografia em repouso.
